@@ -1,0 +1,13 @@
+# Runtime-generated data
+data/school.db
+data/app.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
